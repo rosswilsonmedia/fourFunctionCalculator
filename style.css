@@ -10,7 +10,6 @@ body{
     align-items: center;
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,.15), rgba(0,0,0,.15)),repeating-radial-gradient(circle at -10em 50em, rebeccapurple 0, rebeccapurple 1em, orange 1em, orange 2em, rebeccapurple 2em);
-    background-position: left bottom;
 }
 #calculator{
     background-color: black;
